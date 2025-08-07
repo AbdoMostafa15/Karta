@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "983750664572",
+    "project_id": "karta-6fc8b",
+    "storage_bucket": "karta-6fc8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983750664572:android:bc265250d40afb9e3c04f9",
+        "android_client_info": {
+          "package_name": "com.example.karta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983750664572-761mtecupb8a0gs4onnmvpiodi69m5en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM4z6bG25sUMQMbRDmcxTEAPvaaGcCHjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983750664572-761mtecupb8a0gs4onnmvpiodi69m5en.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983750664572-a2ikara9fjimst8mla1ko178icg5bsch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kartaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983750664572:android:cf013c768f87e0ba3c04f9",
+        "android_client_info": {
+          "package_name": "com.example.karta_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983750664572-761mtecupb8a0gs4onnmvpiodi69m5en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM4z6bG25sUMQMbRDmcxTEAPvaaGcCHjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983750664572-761mtecupb8a0gs4onnmvpiodi69m5en.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983750664572-a2ikara9fjimst8mla1ko178icg5bsch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kartaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
